@@ -35,6 +35,14 @@ Recommended settings:
 - Infill: 30%
 - Supports: Only where required
 
+  #Build Guide
+  - first downlod the step file
+  - slice it into stl file using slicer
+  - uplode slice file in the memory card of 3d printer
+  - and start printing
+  - after complete printing using fevitide or vegaquick to assamble all part
+  - after asamble model add electronic in it 
+
 ## License
 
 This project is open source. Feel free to use, modify, and improve it while giving appropriate credit.
