@@ -25,7 +25,12 @@ A simple, 3D printable robo sumo bot designed for educational purposes and robot
 - Wheels
 - M3 screws and nuts
 
+## Bill of Materials (BOM)
 
+| Item | Quantity | Cost (USD) | Notes |
+|------|:--------:|-----------:|-------|
+| PLA Filament (250 g) | 1 | $5.00 | Used for 3D printing the components |
+| **Total** | **1** | **$5.00** | |
 ## Printing
 
 Recommended settings:
