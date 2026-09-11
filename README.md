@@ -4,7 +4,10 @@ A simple, 3D printable robo sumo bot designed for educational purposes and robot
 
 / <img width="732" height="663" alt="Screenshot 2026-06-16 092925" src="https://github.com/user-attachments/assets/c620e15f-e7c9-4180-bf99-5026d63df12e" />
 
+## THE ZIP FILE CONSIST ALL COMPONENT STL FILE 
 
+
+  
 
 ## Features
 
@@ -14,23 +17,19 @@ A simple, 3D printable robo sumo bot designed for educational purposes and robot
 - Compatible with the FlySky FS-i6 transmitter and receiver
 - Powered by a 3S LiPo battery (11.1V nominal)
 
-## Required Components
-
-- 3D printed parts
-- 2 × 12V DC gear motors
-- 1 × Dual-channel ESC
-- 1 × FlySky FS-i6 transmitter
-- 1 × FlySky receiver
-- 1 × 3S LiPo battery
-- Wheels
-- M3 screws and nuts
-
 ## Bill of Materials (BOM)
 
 | Item | Quantity | Cost (USD) | Notes |
 |------|:--------:|-----------:|-------|
-| PLA Filament (250 g) | 1 | $5.00 | Used for 3D printing the components |
-| **Total** | **1** | **$5.00** | |
+| 3D Printed Parts (PLA Filament, 250 g) | 1 Set | $5.00 | Includes all custom 3D printed components |
+| 12V DC Gear Motors | 2 | — | Purchased component |
+| Dual-Channel ESC | 1 | — | Motor controller |
+| FlySky FS-i6 Transmitter | 1 | — | Radio transmitter |
+| FlySky Receiver | 1 | — | Compatible with the FS-i6 transmitter |
+| 3S LiPo Battery | 1 | — | Power source |
+| Wheels | 2 | — | Compatible with the gear motors |
+| M3 Screws & Nuts | Assorted | — | Used for assembly |
+| **Total (Custom Fabricated Parts Only)** | | **$5.00** | Cost covers only the 3D printed components |
 ## Printing
 
 Recommended settings:
