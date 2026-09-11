@@ -4,7 +4,7 @@ A simple, 3D printable robo sumo bot designed for educational purposes and robot
 
 / <img width="732" height="663" alt="Screenshot 2026-06-16 092925" src="https://github.com/user-attachments/assets/c620e15f-e7c9-4180-bf99-5026d63df12e" />
 
-## THE ZIP FILE CONSIST ALL COMPONENT STL FILE 
+## THE PART STUDIO FILE CONSIST ALL COMPONENT STEP FILE 
 
 
   
